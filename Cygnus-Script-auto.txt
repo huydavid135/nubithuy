@@ -15,7 +15,15 @@ var CLICK_COUNT = 1000; // Renamed variable
         console.error('Element not found!');
         return;
     }
+        return;
+    }
 
+    const rect = element.getBoundingClientRect();
+(async function clickLoop(n) {
+    const element = document.querySelector('[class*="mt-[10px]"]');
+    if (!element) {
+        console.error('Element not found!');
+        return;
     const rect = element.getBoundingClientRect();
 
     for (let i = 0; i < n; i++) {
@@ -38,6 +46,7 @@ var CLICK_COUNT = 1000; // Renamed variable
         await new Promise(resolve => setTimeout(resolve, delay));
     }
 })(CLICK_COUNT);
+
 
 
 
