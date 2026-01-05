@@ -1,6 +1,9 @@
 var CLICK_COUNT = 1000; // Renamed variable
     const rect = element.getBoundingClientRect();
 
+var CLICK_COUNT = 1000; // Renamed variable
+    const rect = element.getBoundingClientRect();
+
 
 
 var CLICK_COUNT = 1000; // Renamed variable
@@ -55,6 +58,7 @@ var CLICK_COUNT = 1000; // Renamed variable
         await new Promise(resolve => setTimeout(resolve, delay));
     }
 })(CLICK_COUNT);
+
 
 
 
