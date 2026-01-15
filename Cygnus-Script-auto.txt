@@ -194,3 +194,4 @@ var CLICK_COUNT = 1000; // Renamed variable
 
 
 
+
