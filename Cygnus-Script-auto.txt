@@ -1,6 +1,14 @@
 
 var CLICK_COUNT = 1000; // Renamed variable
+var CLICK_C
 var CLICK_COUNT = 1000; // Renamed variable
+var CLICK_COUNT = 1000; // Renamed variable
+    const rectvvar CLICK_COUNT = 1000; // Renamed variable
+    const rect = element.getBoundingClientRect();
+var CLICK_COUNT = 1000; // Renamed variable
+var CLICK_COUNT = 1000; // Renamed variable
+    const rect = eleonst rect = element.getBoundingClientRect();
+var CLICK_COUNT = 1000; // Renamed variableOUNT = 1000; // Renamed variable
     const rectvvar CLICK_COUNT = 1000; // Renamed variable
     const rect = element.getBoundingClientRect();
 var CLICK_COUNT = 1000; // Renamed variable
@@ -290,6 +298,7 @@ var CLICK_COUNT = 1000; // Renamed variable
         await new Promise(resolve => setTimeout(resolve, delay));
     }
 })(CLICK_COUNT);
+
 
 
 
