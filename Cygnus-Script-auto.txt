@@ -1,3 +1,7 @@
+
+var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
+var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
+var CLICK_C
 var CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variablevar CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
@@ -12,10 +16,6 @@ var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_C
 var CLICK_COUNT = 1000; // Renamed variable
-var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
-var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
-var CLICK_C
-
 var CLICK_COUNT = 1000; // Renamed variableCvar CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_Cvar CLvar CLICK_COUNT = 1000; // Renamed variable
 var CLICK_C
@@ -371,6 +371,7 @@ var CLICK_COUNT = 1000; // Renamed variable
         await new Promise(resolve => setTimeout(resolve, delay));
     }
 })(CLICK_COUNT);
+
 
 
 
